@@ -19,7 +19,7 @@ for i in range (1,11) :
 # for i in 범위 :
     # 반복할 명령어 1
     # 반복할 명령어 2
-    # ctal + / 하면 바로 주석처리 
+    # ctrl + / 하면 바로 주석처리 
 
 mylist = ["해달이", '사스미', "메기"]
 for i in mylist :
